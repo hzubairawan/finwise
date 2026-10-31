@@ -1,0 +1,12 @@
+streamlit>=1.38,<2
+langchain>=0.3,<2
+langchain-core>=0.3,<2
+langchain-openai>=0.2,<2
+langchain-community>=0.3,<2
+openai>=1.50,<3
+python-dotenv>=1,<2
+pydantic>=2,<3
+pandas>=2,<3
+plotly>=5,<7
+reportlab>=4,<5
+pytest>=8,<10
