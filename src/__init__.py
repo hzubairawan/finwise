@@ -1,0 +1,1 @@
+"""FinWise AI application modules."""
